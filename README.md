@@ -1,9 +1,21 @@
 # 3D-DIC
 ## Introduction
 
-This is a 3D DIC(Digital Image Correlation) program based on python language.
+This is a 3D DIC(Digital Image Correlation) program based on python language.(GPU support)
 
 ![gui](https://github.com/dudgus1727/3D-DIC/blob/master/resources/gui.png)
+
+## requirements
+- python3
+- pandas
+- scikit-image
+- scipy
+- matplotlib
+- natsort
+- gooey
+- networkx
+- pytorch
+- cupy
 
 ## 1. Stereo Camera Calibration
 ### - Take picture and calibraion
